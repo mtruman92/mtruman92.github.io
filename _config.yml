@@ -1,11 +1,11 @@
 # Site settings
 author: Mickae Truman
-title: 
+title: My First CLI
 header-img: img/home-bg.png
 email: mtruman@nyit.edu
 copyright_name: Mickae Truman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I was BRAIN FRIED! But I made it!!!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mtruman92
