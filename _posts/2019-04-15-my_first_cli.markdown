@@ -5,6 +5,7 @@ date:       2019-04-15 22:19:06 -0400
 permalink:  my_first_cli
 ---
 
+### I was BRAIN FRIED! But I made it!!!
 
 > Here I am! Being put to my first test! My first assessment. Where do I start? I'm super excited but I'm super nervous. I actually do not know where to start. So I read the instructions and started to watch sample walkthrough videos. I thought, hey this isn't so bad. I can do that too! So all the while, I'm brainstorming topics that I want to build my cli on. Ahhh hah moment revealed ----> "WEATHER"! Everyone wants to know the weather outside, let's do that. But then I thought some more and said hey, how about I choose another topic where I can get all sorts of neat facts that will be useful to the public. And there I came up with "United States Facts". I had it all in my head. I want to build a command line inferface that accomplishes the following:
 
@@ -43,7 +44,7 @@ But trust me, I still got some assistance with this part. Several videos and a f
 
 **Building the CLI**
 
-Super Fun! I loved playing around with my methods, researching new and cook tricks, and utilizing several techniques I learned e.g: arrays, attr_accessors, .upcase, .downcase, to_i, include?, "\n ", .gsub, <<,  !,  | | , input = gets.chomp 
+Super Fun! I loved playing around with my methods, researching new and cook tricks, and utilizing several techniques I learned e.g: arrays, attr_accessors, .upcase, .downcase, to_i, include?, "\n ", .gsub, <<,  !,  | | , input = gets.chomp
 
 **Tough Part** 
 
