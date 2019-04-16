@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First CLI"
-date:       2019-04-16 02:19:05 +0000
+date:       2019-04-15 22:19:06 -0400
 permalink:  my_first_cli
 ---
 
@@ -21,20 +21,21 @@ So I had my structure. Now I'm excited to build.
 
 Helpful **Videos** I replayed over and over: (Just a few favorites)
 
-1. How to build your gem using bundler
-      * [https://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E]
-2. Sample CLI walkthrough
-      * https://www.youtube.com/watch?v=_lDExWIhYKI
 
-3.Building a Ruby Gem from scratch
-     * https://www.youtube.com/watch?v=j0wKePpNlZc&t=20s
-4. Web Scrapping in Ruby
-    *  https://www.youtube.com/watch?v=HacxIKI7yh8
+      * [How to build your gem using bundler](https://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E)
+
+      * [Sample CLI walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
+
+      * [Building a Ruby Gem from scratch](https://www.youtube.com/watch?v=j0wKePpNlZc&t=20s)
+
+      *  [Web Scrapping in Ruby](https://www.youtube.com/watch?v=HacxIKI7yh8)
+
 
 **Cool Repl.it - CLI**
 
 Here's a Repl.it that I used hand and hand with my project. It helped me with case input commands:
-    * https://repl.it/@natgit/JUKEBOX-CLI
+
+    * [Jukebox CLI](https://repl.it/@natgit/JUKEBOX-CLI)
 
 Now I can really begin. So now I have to scrape! Boy was that fun! --> NOT!! But it was really cool to explore and learn. Once you're able to hit that binding.pry and capture all of that 'behind the scenes' work, it becomes less daunting!
 But trust me, I still got some assistance with this part. Several videos and a few zoom sessions with a colleague worked wonders.
@@ -56,7 +57,7 @@ I'm going to attempt building another CLI for fun! This time I can utilize what 
 
 **End Result**
 
-Hey check out my repo: https://github.com/mtruman92/us_cli.git
+Hey check out my repo: [US_CLI](https://github.com/mtruman92/us_cli.git)
 
-                                                                                            ~Enjoy getting facts about the United States!~
+#####                                                                                             ~Enjoy getting facts about the United States!~
 
