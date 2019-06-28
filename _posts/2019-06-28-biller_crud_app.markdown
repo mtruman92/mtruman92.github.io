@@ -7,7 +7,7 @@ permalink:  biller_crud_app
 
 <center>
 
-![](https://www.freelogodesign.org/file/app/client/thumb/3572788b-93f9-4fbc-a179-add3c25c09b3_200x200.png?1560994314633)
+![Biller](https://www.freelogodesign.org/file/app/client/thumb/3572788b-93f9-4fbc-a179-add3c25c09b3_200x200.png?1560994314633)
 
 ***So What's behind Biller?***
 
@@ -15,7 +15,7 @@ permalink:  biller_crud_app
 The idea behind Biller is to come to a platform where all your bills are stored. Keep track of all your upcoming and past bills in a central location.
 
 
-![]( https://miro.medium.com/max/200/1*D07GoP9ZO3rXSVsVndX5kg.png) </center>
+![CRUD]( https://miro.medium.com/max/200/1*D07GoP9ZO3rXSVsVndX5kg.png) </center>
 
 
 The structure is made to be very simple but very efficient.
