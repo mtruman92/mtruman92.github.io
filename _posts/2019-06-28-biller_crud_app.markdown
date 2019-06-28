@@ -77,13 +77,13 @@ The structure will display in your editor as follows:
 2. *Bills Controller:* Made up of several actions/request to render and redirect such as: creating bills, reading/viewing bills, updating/editing bills, deleting/destroying bills.
 3. *Users Contoller:* Made up of several actions/request to render and redirect such as:creating users, reading/viewing users profiles, updating/editing users profiles, deleting/destroying users profiles.
 
-**Models **
+**Models**
 
 Represents the data that is being transferred between the View and Controller components
 
 1. Bill.rb: Bills belong to users
 2. User.rb: A user has many bills and has a secure password
-3. Views: The visual representation of the inputs orchestrated by controllers and models. This is designed with ruby programming language, html, css, and forms. </p>
+3. Views: The visual representation of the inputs orchestrated by controllers and models. This is designed with ruby programming language, html, css, and forms. 
 
 * Bills: Directory folder composed of several erb templates used to create, read, update, delete bills
 * Users: Directory folder composed of several erb templates used to create, read, update, delete users
@@ -160,7 +160,7 @@ To access the Biller App, here are the instructions:
 6. 'shotgun'
 7. copy server address into browser and begin tracking your bills
 ```
-</p>
+
  <center>
  
 ## Happy Bill Tracking!  </center>
