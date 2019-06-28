@@ -83,7 +83,10 @@ Represents the data that is being transferred between the View and Controller co
 
 1. Bill.rb: Bills belong to users
 2. User.rb: A user has many bills and has a secure password
-3. Views: The visual representation of the inputs orchestrated by controllers and models. This is designed with ruby programming language, html, css, and forms. 
+
+**Views**
+
+The visual representation of the inputs orchestrated by controllers and models. This is designed with ruby programming language, html, css, and forms. 
 
 * Bills: Directory folder composed of several erb templates used to create, read, update, delete bills
 * Users: Directory folder composed of several erb templates used to create, read, update, delete users
