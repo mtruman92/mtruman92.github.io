@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Magic Behind Params Hash & Session Hash"
-date:       2019-07-01 02:07:02 +0000
+date:       2019-06-30 22:07:03 -0400
 permalink:  magic_behind_params_hash_and_session_hash
 ---
 
@@ -42,7 +42,9 @@ We can then hit a URL like this:
 In the params hash, we now have an id. We can do params[:id] to get the value from the url.
 
 # Sessions in Sinatra
-We've all seen it in our browsers but whats the meaning behind HTTP? HTTP is an abbreviation for Hyper Text Transfer Protocol. It is an appliction layer protocol to convey information from the world wide web (www). HTTP protocol is a stateless and connectionless protocol. 
+We've all seen it in our browsers but whats the meaning behind HTTP?
+
+HTTP is an abbreviation for Hyper Text Transfer Protocol. It is an appliction layer protocol to convey information from the world wide web (www). HTTP protocol is a stateless and connectionless protocol. 
 
 *What does that mean?*
 
